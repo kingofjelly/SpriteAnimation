@@ -1,0 +1,8 @@
+C:\Users\DMC\Desktop\GitHub\SpriteAnimation\SpriteAnimation\bin\x86\Debug\SpriteAnimation.exe
+C:\Users\DMC\Desktop\GitHub\SpriteAnimation\SpriteAnimation\bin\x86\Debug\SpriteAnimation.pdb
+C:\Users\DMC\Desktop\GitHub\SpriteAnimation\SpriteAnimation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DMC\Desktop\GitHub\SpriteAnimation\SpriteAnimation\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\DMC\Desktop\GitHub\SpriteAnimation\SpriteAnimation\obj\x86\Debug\SpriteAnimation.exe
+C:\Users\DMC\Desktop\GitHub\SpriteAnimation\SpriteAnimation\obj\x86\Debug\SpriteAnimation.pdb
+C:\Users\DMC\Desktop\GitHub\SpriteAnimation\SpriteAnimation\bin\x86\Debug\Content\PatrollingNPC.xnb
+C:\Users\DMC\Desktop\GitHub\SpriteAnimation\SpriteAnimation\bin\x86\Debug\Content\NPCLineSprites.xnb
